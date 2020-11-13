@@ -66,7 +66,7 @@ self.__WB_MANIFEST = [
   // HTML
   {
     revision: '1',
-    url: './index.html'
+    url: 'index.html'
   },
   // Icons
   {
