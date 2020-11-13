@@ -3,7 +3,7 @@
   "short_name": "MJapp",
   "description": "MJapp",
   "lang": "en-US",
-  "start_url": ".",
+  "start_url": "/FWpwa/",
   "scope": "https://makerjoe.github.io/FWpwa/",
   "display": "standalone",
   "background_color": "#EE350F",
