@@ -4,7 +4,7 @@
   "description": "MJapp",
   "lang": "en-US",
   "start_url": ".",
-  "scope": "https://github.com/makerjoe/FWpwa/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#EE350F",
   "theme_color": "#EE350F",
