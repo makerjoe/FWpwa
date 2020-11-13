@@ -1,6 +1,6 @@
 var cacheName = 'FWpwa-pwa';
 var filesToCache = [
-  '/FWpwa/',
+  '/FWpwa',
   '/FWpwa/index.html'
 ];
 
