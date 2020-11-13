@@ -1,8 +1,7 @@
 var cacheName = 'FWpwa-pwa';
 var filesToCache = [
   '/FWpwa',
-  '/FWpwa/index.html',
-  '/FWpwa/css/style.css'
+  '/FWpwa/index.html'
 ];
 
 /* Start the service worker and cache all of the app's content */
